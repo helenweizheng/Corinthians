@@ -1,1 +1,392 @@
-# Corinthians
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>查经 - 哥林多前书 5章</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* 提示框样式 */
+        .tooltip-box {
+            display: none;
+            position: absolute;
+            background: rgba(0, 0, 0, 0.85);
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
+            font-size: 14px;
+            max-width: 80%;
+            z-index: 1000;
+            line-height: 1.4;
+            pointer-events: none;
+            white-space: pre-line;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+        }
+
+        /* 有提示的文本样式 */
+        [data-tooltip] {
+            border-bottom: 1px dotted #666;
+        }
+
+        /* 移动端样式 */
+        @media (max-width: 768px) {
+            .tooltip-box {
+                position: fixed;
+                left: 50% !important;
+                top: 50% !important;
+                transform: translate(-50%, -50%);
+                width: 90%;
+                max-width: 300px;
+                text-align: center;
+                pointer-events: auto;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1 class="main-title">MCCS小组查经</h1>
+
+    <div class="slide active">
+        <h2>2024-12-19</h2>
+        <h1 class="chapter-title">《哥林多前书》第 5 章 查经材料</h1>
+    </div>
+
+    <div class="slide">
+        <h2 class="section-title">一、前四章回顾</h2>
+        <p>
+        哥林多前书前四章主要处理了教会中的分党结派问题。保罗指出哥林多教会的信徒因着智慧、口才、恩赐等外在因素而分门别类，忘记了十字架的愚拙才是神的大能。保罗强调真正的智慧不是属世的智慧，而是从神而来的智慧。
+        </p>
+        <p><strong>核心信息：</strong> 教会应当以基督为中心，避免分党结派，追求属灵的合一。真正的智慧不是人的智慧，而是从神而来的智慧。</p>
+    </div>
+
+    <div class="slide">
+        <h2 class="section-title">二、哥林多前书第四章回顾</h2>
+        <p>《哥林多前书》第四章主要处理了教会中的骄傲和分党问题。保罗以自己和其他使徒为例，说明真正的属灵领袖应当以谦卑和受苦为特征，而不是以世界的智慧和荣耀为夸耀。</p>
+        <p>保罗强调，使徒们"为基督的缘故算是愚拙的"，他们"被人咒骂，被人逼迫，被人毁谤"，但这些都是为了神的国。真正的智慧不是属世的智慧，而是从神而来的智慧。保罗警告哥林多教会不要"自高自大"，因为一切恩赐都是从神而来的。</p>
+        <p>保罗最后以父亲的心肠劝勉他们，说："你们学基督的，师傅虽有一万，为父的却是不多，因我在基督耶稣里用福音生了你们。"这表明保罗对他们的爱和关心，希望他们能在真道上成长。</p>
+    </div>
+
+    <div class="slide">
+        <h2 class="section-title">三、《哥林多前书》的大背景</h2>
+        <ul>
+            <li><strong>作者：</strong> 使徒保罗</li>
+            <li><strong>时期：</strong> 约公元55年，保罗在第三次宣教旅程中</li>
+            <li><strong>历史背景：</strong> 哥林多是希腊重要的商业港口城市，以道德败坏、偶像崇拜和淫乱闻名。保罗在此建立了教会，但教会面临严重的道德和纪律问题。</li>
+            <li><strong>结构概览：</strong>
+                <ul>
+                    <li>1–4章：处理分党结派问题</li>
+                    <li>5–6章：处理道德和纪律问题</li>
+                    <li>7–16章：回答教会实际问题</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div class="slide">
+        <h2 class="section-title">四、哥林多教会的问题</h2>
+        <p>教会位于道德败坏的港口城市<span data-tooltip="哥林多：希腊重要的商业港口城市，以道德败坏、偶像崇拜和淫乱闻名。保罗在此建立了教会，但教会面临严重的道德问题。">哥林多</span>，社会风气放纵。信徒中出现一件极其恶劣的乱伦事件——有人"收了他的继母"（5:1）。</p>
+        <p>教会的态度：他们没有哀痛、劝戒，反而"<span data-tooltip="自高自大：指教会以错误的宽容态度为荣，没有为罪恶哀痛，反而以包容为骄傲。">自高自大</span>"，似乎以"包容"为荣耀。</p>
+    </div>
+
+    <div class="slide">
+        <h2 class="section-title">五、第 5 章 内容分段概览</h2>
+        <ul>
+            <li><strong>一、问题的发现 (5:1-2):</strong> 教会纵容乱伦罪的严重问题</li>
+            <li><strong>二、保罗的管教行动 (5:3-5):</strong> 保罗的审判和管教措施</li>
+            <li><strong>三、警戒：罪如面酵 (5:6-8):</strong> 罪恶扩散的危险和洁净的必要</li>
+            <li><strong>四、对内与对外的分别 (5:9-13):</strong> 教会纪律的范围和原则</li>
+        </ul>
+    </div>
+
+    <div class="slide">
+        <h2 class="section-title">六、问题的发现 (5:1-2)</h2>
+        <blockquote>
+            <p><strong>【林前五1】</strong> "风闻在你们中间有淫乱的事。这样的淫乱连外邦人中也没有，就是有人收了他的继母。"
+            <ul>
+                <li>保罗听到哥林多教会中有严重的淫乱事件</li>
+                <li>这种<span data-tooltip="乱伦罪：指与继母发生不正当关系，这在旧约律法中是被严格禁止的（利18:8）。">乱伦罪</span>连外邦人都认为可耻</li>
+                <li>有人"收了他的继母"——这是严重的道德败坏</li>
+            </ul>
+            <p><strong>【林前五2】</strong> "你们还是自高自大，并不哀痛，把行这事的人从你们中间赶出去。"
+            <ul>
+                <li>教会的反应是错误的——"自高自大"</li>
+                <li>他们没有为罪恶哀痛</li>
+                <li>没有执行教会纪律，把犯罪的人赶出去</li>
+            </ul>
+        </blockquote>
+        <hr>
+        <p><strong>❓ 观察问题：</strong></p>
+        <ul>
+            <li>教会的态度反映了什么问题？<br>
+                <em>答：教会以错误的"宽容"为荣，忘记了圣洁是教会生命的根基。他们没有为罪恶哀痛，也没有执行必要的管教。</em>
+            </li>
+            <li>为什么保罗说这种淫乱"连外邦人中也没有"？<br>
+                <em>答：说明这种乱伦行为极其恶劣，连不信神的外邦人都认为可耻，而神的教会却容忍这样的罪。</em>
+            </li>
+        </ul>
+        <p><strong>✨ 属灵反思：</strong></p>
+        <p>教会不能以"包容"为借口纵容罪恶。真正的爱有时需要严厉的措施来挽回迷失的羊。</p>
+    </div>
+
+    <div class="slide">
+        <h2 class="section-title">七、保罗的管教行动 (5:3-5)</h2>
+        <blockquote>
+            <p><strong>【林前五3-5】</strong> "我身子虽不在你们那里，心却在你们那里，好像我亲自与你们同在，已经判断了行这事的人。就是你们聚会的时候，我的心也同在。奉我们主耶稣的名，并用我们主耶稣的权能，要把这样的人<span data-tooltip="交给撒但：意指将犯罪的人逐出教会，剥夺属灵的遮盖和保护，让他面对属世的后果，目的是促使悔改。">交给撒但</span>，败坏他的肉体，使他的灵魂在主耶稣的日子可以得救。"
+            <ul>
+                <li>保罗虽然不在场，但以属灵权柄进行判断</li>
+                <li>他奉主耶稣的名和权能说话</li>
+                <li>"交给撒但"：逐出教会，剥夺属灵遮盖</li>
+                <li>目的：败坏肉体，拯救灵魂</li>
+                <li>不是永远的惩罚，而是为了挽回</li>
+            </ul>
+        </blockquote>
+        <hr>
+        <p><strong>❓ 观察问题：</strong></p>
+        <ul>
+            <li>保罗如何行使他的权柄？<br>
+                <em>答：保罗虽然不在场，但以属灵权柄进行判断，奉主耶稣的名和权能说话。</em>
+            </li>
+            <li>"交给撒但"的目的是什么？<br>
+                <em>答：目的是败坏肉体，拯救灵魂。不是永远的惩罚，而是为了促使悔改和挽回。</em>
+            </li>
+        </ul>
+        <p><strong>✨ 属灵反思：</strong></p>
+        <p>教会纪律的目的是拯救，不是惩罚。真正的爱有时需要严厉的措施来挽回迷失的羊。</p>
+    </div>
+
+    <div class="slide">
+        <h2 class="section-title">八、警戒：罪如面酵 (5:6-8)</h2>
+        <blockquote>
+            <p><strong>【林前五6】</strong> "你们这自夸是不好的。岂不知一点<span data-tooltip="面酵：象征罪恶和败坏，一点面酵能使全团发起来，罪恶若不清除会扩散腐蚀整个教会。">面酵</span>能使全团发起来吗？"
+            <ul>
+                <li>罪恶像面酵一样会扩散</li>
+                <li>一点罪恶会影响整个教会</li>
+                <li>教会不能容忍罪恶的存在</li>
+            </ul>
+            <p><strong>【林前五7-8】</strong> "你们既是无酵的面，应当把旧酵除净，好使你们成为新团；因为我们逾越节的羔羊基督已经被杀献祭了。所以，我们守这节不可用旧酵，也不可用恶毒、邪恶的酵，只用诚实真正的无酵饼。"
+            <ul>
+                <li>基督是逾越节的羔羊</li>
+                <li>信徒应当过<span data-tooltip="无酵节：以色列人纪念出埃及时吃无酵饼的节日，象征纯洁无瑕的生活。">无酵节</span>般纯洁的生活</li>
+                <li>要除去一切的罪恶和败坏</li>
+            </ul>
+        </blockquote>
+        <hr>
+        <p><strong>❓ 观察问题：</strong></p>
+        <ul>
+            <li>面酵的比喻说明了什么？<br>
+                <em>答：罪恶像面酵一样会扩散，一点罪恶会影响整个教会，因此教会不能容忍罪恶的存在。</em>
+            </li>
+            <li>为什么保罗提到逾越节和无酵节？<br>
+                <em>答：基督是逾越节的羔羊，信徒应当过无酵节般纯洁的生活，要除去一切的罪恶和败坏。</em>
+            </ul>
+        <p><strong>✨ 属灵反思：</strong></p>
+        <p>罪恶若不清除，会像酵一样扩散腐蚀整个教会。我们必须保持圣洁，不能与世界妥协。</p>
+    </div>
+
+    <div class="slide">
+        <h2 class="section-title">九、对内与对外的分别 (5:9-13)</h2>
+        <blockquote>
+            <p><strong>【林前五9-10】</strong> "我先前写信给你们说，不可与淫乱的人相交。此话不是指这世上一概行淫乱的，或贪婪的，勒索的，或拜偶像的；若是这样，你们除非离开世界方可。"
+            <ul>
+                <li>对外人（非信徒），教会无需审判</li>
+                <li>神会审判外人</li>
+                <li>我们无法完全避免与罪人接触</li>
+            </ul>
+            <p><strong>【林前五11-13】</strong> "但如今我写信给你们说，若有称为弟兄是行淫乱的，或贪婪的，或拜偶像的，或辱骂的，或醉酒的，或勒索的，这样的人不可与他相交，就是与他吃饭都不可。因为审判教外的人与我何干？教内的人岂不是你们审判的吗？至于外人，神必审判他们。你们应当把那恶人从你们中间赶出去。"
+            <ul>
+                <li>对"称为弟兄"的人，若明知故犯且不悔改，必须行使纪律</li>
+                <li>不可与犯罪的弟兄相交，连吃饭都不可</li>
+                <li>必须把恶人从教会中赶出去</li>
+            </ul>
+        </blockquote>
+        <hr>
+        <p><strong>❓ 观察问题：</strong></p>
+        <ul>
+            <li>保罗如何区分对内和对外的处理方式？<br>
+                <em>答：对外人（非信徒），教会无需审判，神会审判他们；对"称为弟兄"的人，若明知故犯且不悔改，必须行使教会纪律。</em>
+            </li>
+            <li>为什么对内的纪律如此严格？<br>
+                <em>答：因为教会是圣洁的团体，不能容忍罪恶的存在。对内的纪律是为了保护教会的纯洁性。</em>
+            </li>
+        </ul>
+        <p><strong>✨ 属灵反思：</strong></p>
+        <p>教会必须保持圣洁，不能容忍罪恶的存在。对内要行使纪律，对外无需审判。</p>
+    </div>
+
+    <div class="slide">
+        <h2 class="section-title">十、本章总结</h2>
+        <ol>
+            <li>教会必须保持圣洁，不能容忍罪恶的存在</li>
+            <li>教会纪律的目的是拯救，不是惩罚</li>
+            <li>罪恶如面酵，会扩散影响整个教会</li>
+            <li>对内要行使纪律，对外无需审判</li>
+            <li>真正的爱有时需要严厉的措施来挽回</li>
+        </ol>
+    </div>
+
+    <div class="slide">
+        <h2 class="section-title">十一、小组查经问题 (应用)</h2>
+        
+        <h3>一、对罪恶的敏感与回应</h3>
+        <ul>
+            <li>当你发现教会或小组中有违背神旨意的事情时，你的反应是什么？你是冷漠、论断，还是带着忧伤和代求来到神面前？</li>
+            <li>你最近一次因自己或教会的罪感到忧伤是什么时候？你是否愿意成为"为破口站立"的人？</li>
+        </ul>
+
+        <h3>二、教会纪律与爱心</h3>
+        <ul>
+            <li>"交给撒但"听起来很严厉，你觉得这样的教会管教目的是惩罚还是拯救？</li>
+            <li>我们如何平衡"爱心接纳"与"圣洁纪律"之间的张力？</li>
+        </ul>
+
+        <h3>三、罪恶的扩散与洁净</h3>
+        <ul>
+            <li>罪恶像"面酵"，在我们个人生命和团体生活中，可能表现在哪些方面？</li>
+            <li>你如何在职场、朋友圈、恋爱或家庭中，持守信仰的纯洁性？</li>
+        </ul>
+
+        <h3>四、实际应用</h3>
+        <ul>
+            <li>在实际生活中，遇到信徒陷入罪中，我们可以做些什么？</li>
+            <li>你在生活中是否也保持信仰立场，还是与世俗妥协？</li>
+        </ul>
+    </div>
+
+    <div class="slide">
+        <h2 class="section-title">十二、祷告指引</h2>
+        <p>为教会有属灵的敏锐，能在爱中劝戒和挽回软弱的肢体祷告。</p>
+        <p>求神光照我们个人生命中隐藏的"旧酵"，赐我们悔改的心。</p>
+        <p>为跌倒的弟兄姊妹祷告，求主让他们在经历后果中认识神的慈爱与圣洁。</p>
+    </div>
+
+</div>
+
+<div class="navigation-hint">使用键盘 ← → 箭头键翻页 (或触摸屏左右滑动)</div>
+
+<script>
+    const slides = document.querySelectorAll('.slide');
+    let currentSlide = 0;
+    let touchStartX = null;
+    let touchStartY = null;
+    let isSwiping = false;
+
+    function showSlide(index) {
+        slides.forEach((slide, i) => {
+            slide.classList.remove('active');
+            if (i === index) {
+                slide.classList.add('active');
+            }
+        });
+    }
+
+    function nextSlide() {
+        if (currentSlide < slides.length - 1) {
+            currentSlide++;
+            showSlide(currentSlide);
+        }
+    }
+
+    function prevSlide() {
+        if (currentSlide > 0) {
+            currentSlide--;
+            showSlide(currentSlide);
+        }
+    }
+
+    // 只在容器区域监听
+    const container = document.querySelector('.container');
+
+    container.addEventListener('touchstart', function(e) {
+        if (e.touches.length === 1) {
+            touchStartX = e.touches[0].clientX;
+            touchStartY = e.touches[0].clientY;
+            isSwiping = true;
+        }
+    }, { passive: true });
+
+    container.addEventListener('touchmove', function(e) {
+        if (!isSwiping || e.touches.length !== 1) return;
+    }, { passive: true });
+
+    container.addEventListener('touchend', function(e) {
+        if (!isSwiping || touchStartX === null || touchStartY === null) return;
+        const touchEndX = e.changedTouches[0].clientX;
+        const touchEndY = e.changedTouches[0].clientY;
+        const deltaX = touchEndX - touchStartX;
+        const deltaY = touchEndY - touchStartY;
+        const minSwipeDistance = 50;
+
+        if (Math.abs(deltaX) > Math.abs(deltaY) && Math.abs(deltaX) > minSwipeDistance) {
+            if (deltaX < 0) {
+                nextSlide();
+            } else {
+                prevSlide();
+            }
+        }
+        touchStartX = null;
+        touchStartY = null;
+        isSwiping = false;
+    }, { passive: true });
+
+    // 键盘事件
+    document.addEventListener('keydown', (event) => {
+        if (event.key === 'ArrowRight') {
+            nextSlide();
+        } else if (event.key === 'ArrowLeft') {
+            prevSlide();
+        }
+    });
+
+    showSlide(currentSlide);
+
+    // 工具提示功能
+    document.querySelectorAll('span[data-tooltip]').forEach(element => {
+        let tooltipBox = null;
+
+        // 显示 tooltip 的函数
+        function showTooltip(e) {
+            const tooltipText = element.getAttribute('data-tooltip');
+            tooltipBox = document.createElement('div');
+            tooltipBox.className = 'tooltip-box';
+            tooltipBox.textContent = tooltipText;
+            document.body.appendChild(tooltipBox);
+
+            const rect = element.getBoundingClientRect();
+            const scrollY = window.scrollY || window.pageYOffset;
+            const scrollX = window.scrollX || window.pageXOffset;
+            tooltipBox.style.left = (rect.left + scrollX) + 'px';
+            tooltipBox.style.top = (rect.bottom + scrollY + 8) + 'px';
+            tooltipBox.style.display = 'block';
+        }
+
+        // 隐藏 tooltip 的函数
+        function hideTooltip() {
+            if (tooltipBox) {
+                tooltipBox.remove();
+                tooltipBox = null;
+            }
+        }
+
+        // PC 端用鼠标事件
+        element.addEventListener('mouseenter', showTooltip);
+        element.addEventListener('mouseleave', hideTooltip);
+
+        // 移动端用触摸事件
+        element.addEventListener('touchstart', function(e) {
+            e.preventDefault(); // 阻止默认行为，避免触发其他事件
+            showTooltip(e);
+        });
+
+        // 点击其他地方隐藏 tooltip
+        document.addEventListener('touchstart', function(e) {
+            if (tooltipBox && !element.contains(e.target)) {
+                hideTooltip();
+            }
+        });
+    });
+</script>
+
+</body>
+</html> 
